@@ -1,2 +1,3 @@
 # Algoritmos
-exercícios das aulas de A
+exercícios das aulas de Algoritmos
+
